@@ -1,0 +1,6 @@
+framework module Pods_TodoTask {
+  umbrella header "Pods-TodoTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
